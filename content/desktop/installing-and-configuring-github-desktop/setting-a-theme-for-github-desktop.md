@@ -9,8 +9,9 @@ versions:
 
 {% mac %}
 
-{% data reusables.desktop.mac-select-desktop-menu %}
-{% data reusables.desktop.choose-a-theme %}
+{% data nonreusables.desktop.mac-select-desktop-menu %}
+{% data non
+reusables.desktop.choose-a-theme %}
   ![The theme options on the Appearance tab for Mac](/assets/images/help/desktop/mac-appearance-tab-themes.png)
 
 {% endmac %}
